@@ -121,11 +121,11 @@ export const StyleHeaderMobileNavbarList = styled.ul`
       opacity: 1;
 
       .menu--open & {
-         transform: translateX(0);
+         transform: translateX(-100%);
 
       }
       .menu--close & {
-         transform: translateX(100%);
+         transform: translateX(0);
       }
 
    }

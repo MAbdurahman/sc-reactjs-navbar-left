@@ -213,7 +213,7 @@ export const GlobalStyles = createGlobalStyle`
       transform: translateX(0);
    }
    .menu--close {
-      transform: translateX(100%);
+      transform: translateX(-100%);
    }
 `;
 export default GlobalStyles;
