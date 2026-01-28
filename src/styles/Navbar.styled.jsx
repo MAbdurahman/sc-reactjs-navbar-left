@@ -182,7 +182,7 @@ export const StyledNavbarHamburgerBar = styled.div`
    height: 2px;
    width: 27px;
    margin: 5px 0;
-   background-color: rgba(255, 255, 255, 0.8);
+   background-color: var(--color-neutral-000);
    transition: transform 0.33s cubic-bezier(.17, .67, .83, .67);
 
    .hamburger--open &:nth-child(1) {
