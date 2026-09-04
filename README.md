@@ -39,5 +39,6 @@ or
 ```shell
 yarn build
 ```
+### [Live demo](https://sc-reactjs-navbar-left.netlify.app/)
 
 ![Image](https://github.com/user-attachments/assets/6c2ec1fe-490e-42f5-b746-797aff1d8645)
